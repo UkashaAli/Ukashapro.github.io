@@ -5,15 +5,15 @@ use yii\widgets\ActiveForm;
 
 ?>
 
-
+<div class="container">
 <div class="row">
-
+<div class="col-lg-3">
 <?php
 foreach($model as $rec){
 	$image=$rec->Prodimage;
 	$price=$rec->Prodprice;
 echo "
-<div class='col-lg-3'>
+<div class'col-lg-4'>
 <div class='panel panel-success'>
 <div class='panel-heading'>
 $rec->Prodname

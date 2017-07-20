@@ -13,7 +13,7 @@ $this->title = 'Foodec';
 
         <p class="lead">A place to post all your food related products</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://localhost:8080/yii/basic/web/index.php/site/test">Surf our website</a></p>
+        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Surf our website</a></p>
     </div>
 	</div>
 
